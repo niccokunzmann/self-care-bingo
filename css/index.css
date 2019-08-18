@@ -1,0 +1,28 @@
+.bingo h2 {
+  text-align: center;
+}
+
+.bingo table {
+  height: 100%;
+  text-align: center;
+  background-color: black;
+
+  border: 0.1em;
+  border-color: black;
+  border-style: solid;
+  border-radius: 0.5em;
+}
+
+.bingo tr {
+  
+}
+
+.bingo td {
+  padding: 1em;
+  border: 0.1em;
+  border-color: black;
+  border-style: solid;
+  border-radius: 0.5em;
+  background-color: white;
+}
+
